@@ -3,7 +3,7 @@
 
 A comprehensive Library Management System built with Microsoft Access to efficiently manage books, authors, members, staff, and loan transactions. This project demonstrates relational database design principles with full normalization up to Third Normal Form (3NF).
 
-![ERD Diagram](ERD.png)
+
 
 ---
 
