@@ -99,7 +99,7 @@ Library-Management-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Library-Management-System.git
+   git clone https://github.com/mahmuds02/Library-Management-System.git
    ```
 
 2. Open `Library_Management_System.accdb` with Microsoft Access
