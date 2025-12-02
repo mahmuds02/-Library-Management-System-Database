@@ -167,8 +167,8 @@ WHERE Loans.ReturnDate IS NULL;
 
 **Saim** - *Data Science & Analytics Graduate Student*
 
-- GitHub: [@yourusername](https://github.com/mahmuds02)
-- LinkedIn: (www.linkedin.com/in/saimmahmude)
+- GitHub: [mahmuds02](https://github.com/mahmuds02)
+- LinkedIn: (www.linkedin.com/in/saimmahmud)
 
 ---
 
